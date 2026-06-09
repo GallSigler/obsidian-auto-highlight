@@ -1,0 +1,9 @@
+{
+    "id": "better-highlight",
+    "name": "Better Highlight",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Allows you to dynamically change the color of your inline code and markdown syntax elements via a color picker.",
+    "author": "Gemini (and Gall Sigler)",
+    "isDesktopOnly": false
+}
